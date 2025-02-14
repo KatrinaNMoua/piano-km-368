@@ -1,2 +1,11 @@
 # piano-km-368
-Free Code Camp's Piano
+Deploying Free Code Camp's piano using Netlify.
+
+**Tools Used**
+
+* Free Code Camp
+* codepen.io
+* GitHub
+* repositories
+* codespaces
+* Netlify
